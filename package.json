@@ -1,0 +1,13 @@
+{
+  "name": "hacktoberfest2025-foodie-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dev scaffold for the Foodie static site",
+  "scripts": {
+    "lint": "eslint \"**/*.js\" --ext .js",
+    "lint:fix": "eslint \"**/*.js\" --ext .js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
